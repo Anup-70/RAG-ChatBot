@@ -1,4 +1,4 @@
-# Mock Server Setup for Parent Bot in Teams TFL Account  
+# Mock Server Setup for Parent Bot in Teams Account  
    
 This README will help you set up the mock server made for the parent bot inside Teams TFL account.  
    
